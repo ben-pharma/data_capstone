@@ -1,0 +1,29 @@
+Business proposal: Company expansion to the west coast
+
+It's one thing to operate a succesful company, but to begin its expansion
+into new areas and potential markets is a vital step in taking a company
+to the next level. Company A is a succesful coffee house and eatery 
+established along the East Coast of the United States with its headquarters
+sitting in upper New York. Its succseful business model and competitor
+intelligence has allowed it to make great inroads into metropolitan areas, 
+but the company are now looking for areas of market expansion, specifically
+along the western seaboard, with an emphasis on the greater LA region, CA. 
+However, we know that success in one area is not always a certain indicator
+for success elsewhere, coupled with the diverse socioeconomic and cultural
+landscape of the LA region, more concrete measures are required to assess
+Company A's potential expansion. 
+
+To scope out the suitablity of this move Data Scientists are being employed
+to evaluate LA neighbourhoods to try and answer the key following questions
+(and some more):
+
+- What does the current neighbourhood offer in terms of coffee houses and 
+  food suppliers?
+- How are competitors in the area being received?
+- What are other competitors in the area doing well/badly?
+- Where are they situated relevant to eachother?
+
+Establishing answers to these questions will be key in assessing the
+suitability of this area for a new business expansion. 
+
+
